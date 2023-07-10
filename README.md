@@ -14,7 +14,7 @@ This is the code for the Golfr app server.
 
 ## Development
 
-#### Running tests
+#### Running automated tests
 
 `rspec`
 
